@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "braintrust": "^0.0.206",
+    "openai": "^4.104.0",
+    "zod": "^3.25.67"
+  }
+}
